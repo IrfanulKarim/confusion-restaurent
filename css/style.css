@@ -1,36 +1,35 @@
 .row-header{
     margin: 0 auto ;
-    padding: 0 auto;
+    padding: 0px;
 }
 
 .row-content{
-    margin: 250px 0 ;
-    padding: 0 auto ;
+    margin: 0px auto;
+    padding: 50px 0 ;
     border-bottom: 1px ridge;
-    max-height: 400px ;
+    max-height: 400px;
+    display: inline-block;
 
 }
 
 .footer{
-    background-color: rgb(214, 214, 214);
-    margin: 0 30px ;
-    padding: 30px 0 ;
+    background-color: #D1C4E9;
+    margin: 0 auto ;
+    padding: 20px 0 ;
 
 }
 
 .jumbotron{
-    margin-top: 0;
-    margin-bottom: 70px;
-    margin: 0 30px;
-    padding: 0 auto ;
-    background-color: rgb(71, 70, 70) ;
-    color: #fff ;
+    margin: 0 auto;
+    padding: 70px 30px ;
+    background-color: #9575CD ;
+    color: floralwhite;
 
 }
 
 .address{
     font-size: 80% ;
-    margin: 0 auto;
+    margin: 0px;
     color:rgb(255, 255, 255) ;
 
 
