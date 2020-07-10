@@ -63,3 +63,10 @@ body{
     top: 0;
     left: 0;
 }
+
+#carouselButton{
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: 1;
+}
