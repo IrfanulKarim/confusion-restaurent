@@ -22,13 +22,6 @@ $(document).ready(function(){
     });
 
 
-    // For tooltip 
-
-    // $(document).ready(function(){
-    //     $('[data-toggle="tooltip"]').tooltip();
-    // });
-
-
     // Reserve Modal
 
     $("#reserveModalButton").click(function(){
